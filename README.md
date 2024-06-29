@@ -1,3 +1,4 @@
+
 # Raspberry Pi Fingerprint Sensor and RGB Display Interface
 
 This Python script is part of a research project conducted by Team X under the supervision of Professor Tushar Sandhan during the summer internship. The project focuses on integrating a fingerprint sensor with an RGB display using a Raspberry Pi, combining hardware interfacing, fingerprint operations, and machine learning for enhanced security.
@@ -160,3 +161,5 @@ We would like to express our sincere gratitude to **Professor Tushar Sandhan** f
 
 - Due to patent rights, the spoof detection algorithm's details and accuracy metrics cannot be disclosed.
 - The compact device housing the entire setup was fabricated using 3D printing for robustness and integration.
+
+
