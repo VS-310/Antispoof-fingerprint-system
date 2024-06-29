@@ -130,7 +130,7 @@ SURGE/
 ### Complete Setup
 
 ![Complete Setup](images/complete_setup.jpg)
-*Caption: Example caption describing the complete setup of the Raspberry Pi, fingerprint sensor, and RGB display integrated into a compact device.*
+*This image depicts the model of the Anti-spoofing fingerprint System*
 
 ## Functionality
 
@@ -157,9 +157,9 @@ These buttons are configured using the RPi.GPIO library in the script. Each butt
 
 We would like to express our sincere gratitude to **Professor Tushar Sandhan** for his invaluable guidance and support throughout this project. Special thanks to our mentors,**Aman**, **Ajay Singh**, and **Adarsh**, for their feedback which greatly contributed to the success of this project.
 
-## Notes
+## Note
 
-- Due to patent rights, the spoof detection algorithm's details and accuracy metrics cannot be disclosed.
+- Due to patent rights, the details of spoof detection algorithm and accuracy metrics cannot be disclosed.
 - The compact device housing the entire setup was fabricated using 3D printing for robustness and integration.
 
 
