@@ -11,12 +11,7 @@ This Python script is part of a research project conducted by Team X under the s
 
 - **Project Title**: Integrating Fingerprint Sensor with RGB Display for Security Applications and Anti-Spoof Detection
 - **Project Team**: Fingerprint Team
-  - Tejasri
-  - Sritan
-  - Sanya
-  - Prateek
-  - Naina
-  - Riddhima
+  - Sritan, Tejasri, Sanya, Prateek, Naina, Riddhima
 - **Supervisor**: Professor Tushar Sandhan
 
 ## Project directory Structure
@@ -155,7 +150,7 @@ These buttons are configured using the RPi.GPIO library in the script. Each butt
 
 ## Acknowledgement
 
-We would like to express our sincere gratitude to **Professor Tushar Sandhan** for his invaluable guidance and support throughout this project. Special thanks to our mentors,**Aman**, **Ajay Singh**, and **Adarsh**, for their feedback which greatly contributed to the success of this project.
+We would like to express our sincere gratitude to **Professor Tushar Sandhan** for his invaluable guidance throughout this project. Special thanks to our mentors,**Aman**, **Ajay Singh**, and **Adarsh**, for their support which greatly contributed to the success of this project.
 
 ## Note
 
