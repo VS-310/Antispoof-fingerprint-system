@@ -5,7 +5,7 @@ This Python script is part of a research project conducted by Team X under the s
 
 ## Abstract
 
-(TBD: Add )
+The project involves implementing a machine learning model designed to de- tect spoofing attempts, deployed on a Raspberry Pi hardware setup. The model analyze fingerprint images using innovative techniques like Ten Crop patch and crop processing. This approach not only expands the dataset but also enables the model to develop a keen eye for detail, effortlessly distinguishing genuine fingerprints from clever forgeries
 
 ## Project Details
 
